@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Color</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.3041773,1.46572708 C15.3041773,0.796633333 14.7630523,0.251852083 14.0927398,0.248195833 L4.35127109,0.187258333 L4.34395859,0.187258333 C3.67364609,0.187258333 3.13008359,0.728383333 3.12520859,1.39869583 C3.12033359,2.07144583 3.66267734,2.62110208 4.33664609,2.62475833 L11.1104586,2.66741458 L1.04480234,12.7318521 C0.568271094,13.2083833 0.568271094,13.9798521 1.04480234,14.4551646 C1.28245859,14.6940396 1.59445859,14.8122583 1.90645859,14.8122583 C2.21845859,14.8122583 2.53045859,14.6940396 2.76811484,14.4551646 L12.8691148,4.35416458 L12.8752086,11.1572271 C12.8752086,11.8299771 13.4212086,12.3747583 14.0939586,12.3747583 L14.0951773,12.3747583 C14.7679273,12.3747583 15.3127086,11.8275396 15.3127086,11.1547896 L15.3041773,1.46572708 Z" id="path-1"></path>
+    </defs>
+    <g id="🖥-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-597.000000, -1234.000000)">
+            <g id="Stacked-Group-Copy" transform="translate(400.000000, 1222.000000)">
+                <g id="Icon/Outline/diagonal-arrow-right-up" transform="translate(197.000000, 12.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Color" fill="#196BF5" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
